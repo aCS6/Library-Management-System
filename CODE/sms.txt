@@ -1,0 +1,50 @@
+01:Sayla:Female:Dhaka:Islam:No:O+:Businessman:21:2014:3.00
+02:Emon:Male:Rajshahi:Islam:No:O+:Service holder:20:2015:2.80
+03:Ridm:Male:Dhaka:Islam:No:AB:Service Holder:17:2015:2.25
+04:Fariha:Female:Dhaka:Islam:No:A:Businessman:19:2015:3.00
+05:Nirob:Male:khulna:Islam:Diploma:O+:Civil:23:2013:3.46
+06:Nahid:Male:Dhaka:Islam:No:O+:Service Holder:20:2015:3.92
+07:Akash:Male:Dhaka:Islam:NO:O+:Businessman:20:2015:3.50
+08:Johaira:Female:Barishal:Islam:No:B:Businessman:19:2015:3.20
+09:Sobus CS:Male:Dinajpur:Islam:Diploma:A:Businessman:22:2014:2.80
+10:Regina kasem:Female:Barma:Islam:Diploma:AB:Businessman:25:2013:3.95
+11:Alif:Male:Dhaka:Islam:No:B:Foreigner:19:2015:3.30
+12:Shanto:Male:Dhaka:Islam:No:AB:Businessman:19:2015:2.90
+13:Akhi:Female:Norsingdi:Islam:No:O+:Businessman:18:2015:3.10
+14:Ankhi:Female:Narayanganj:Islam:No:O+:Businessman:20:2014:2.50
+15:kongkon:Female:Narayngonj:Islam:No:O+:Engineer:20:2014:3.30
+16:Marjiya:Female:Dhaka:Islam:No:B:Foreigner:16:2015:3.67
+17:Badhon Roy:Male:Dinajpur:Hindu:No:O+:Late:21:2014:3.20
+18:Tanjim:Male:Pabna:Islam:No:AB:Civil:20:2015:3.43
+19:Tarek:Male:Pabna:Islam:No:AB:Businessman:20:2015:2.25
+20:Saymon:Male:Comilla:Islam:No:AB:Engineer:21:2014:3.07
+21:Rehmuna Asad:Female:Barishal:Islam:No:O+:Engineer:22:2014:3.33
+22:Pallob:Male:Chittagong:Hindu:No:O+:Businessman:20:2014:0.00
+23:Sahin:Male:Tangail:Islam:Diploma:AB:Businessman:20:2015:3.33
+24:Ashik:Male:Comilla:Islam:No:O+:Businessman:21:2014:3.61
+25:Raju:Male:Joypurhat:Islam:Diploma:AB:Businessman:25:2014:2.25
+26:Nabil:Male:Dhaka:Islam:Diploma:B:Doctor:22:2014:3.90
+27:Imrul:Male:Savar:Islam:No:O+:Lawyer:21:2014:3.61
+28:Fahim S:Male:Khulna:Islam:No:O+:Service Holder:21:2014:3.40
+29:Johny Gosh:Male:Barishal:Hindu:No:O+:Civil:22:2014:2.70
+30:SK Salman:Male:Barishal:Islam:No:AB:Engineer:22:2014:2.10
+31:Minjamul:Male:Jessore:Islam:No:A:Businessman:20:2014:2.70
+32:Afiya:Female:Barishal:Islam:No:A:Businessman:21:2014:2.60
+33:Nayeem:Male:Barishal:Islam:No:O+:Businessman:22:2014:2.80
+34:Tasniya:Female:Manikganj:Islam:No:O+:Businessman:20:2015:2.90
+35:Moumita:Female:Sirajgonj:Islam:No:O+:Civil:22:2014:2.64
+36:Das Dip:Male:Barishal:Hindu:No:AB:Engineer:20:2014:3.30
+37:Zarif:Male:Tangail:Islam:No:A:Civil:21:2014:3.30
+38:Abdullah:Male:Dhaka:Islam:No:AB:Engineer:22:2014:3.46
+39:Riyad:Male:Chandpur:Islam:No:AB:Late:22:2014:2.80
+40:Pinki:Female:Dinajpur:Islam:No:A:Late:23:2014:0.00
+41:Jisan:Male:Jessore:Islam:No:B:Service Holder:20:2015:0.00
+42:Rafiq:Male:Dinajpur:Islam:No:A:Businessman:20:2015:0.00
+43:Rohan:Male:Dhaka:Islam:No:AB:Engineer:23:2014:2.60
+44:Mahi:Male:Dhaka:Islam:No:O+:Civil:20:2015:2.64
+45:Sourav Saha:Male:Comilla:Hindu:No:O+:Businessman:21:2014:3.00
+46:Rakibul:Male:Comilla:Islam:Diploma:AB:Engineer:19:2014:3.40
+47:Nayem shake:Male:Barishal:Islam:O+:No:Service Holder:20:2015:3.00
+48:Nobita Nobi:Male:Ponchogr:Islam:O+:No:Service Holder:20:2015:2.50
+49:Doraemon:Male:Sylhet:Islam:O+:No:Service Holder:20:2015:3.36
+50:Sijuka:Female:Noakhali:Islam:O+:No:Civil:19:2015:3.10

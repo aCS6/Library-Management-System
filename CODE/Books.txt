@@ -1,0 +1,8 @@
+01:Sobar jonno c:Kamrujjaman Niton:CSE:Programming:250.50:02
+02:Computer Programming 1:Tamim Sahriar Subin:CSE:Programming:220.00:01
+03:Computer Programming 2:Tamim Sahriar Subin:CSE:Programming:240.45:03
+04:Teach Yourself C:Hervert Schildt:Programming:CSE:340.50:05
+05:Basic C:Kaykobad:CSE:Programming:550:04
+06:Java Networking:Howard:CSE:Programming:670:02
+07:PHP your dream frame:Victor Hugo:CSE:Web:780.00:08
+08:Algorithm:Luke:CSE:Algorithm:230:00
